@@ -9,4 +9,4 @@
 - Clemson University
 
 ## Work History
-- General Tutor | USC Upstate
+- General Tutor ~ USC Upstate
