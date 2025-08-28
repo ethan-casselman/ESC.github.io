@@ -1,2 +1,2 @@
-# ethan-cass.github.io
+# ESC.github.io
 My website
