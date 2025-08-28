@@ -1,12 +1,12 @@
 # ESC.github.io
 
-##Projects
-###Project 1
+## Projects
+### Project 1
 - Description
 - Links
 
-##Education
+## Education
 - Clemson University
 
-##Work History
+## Work History
 - General Tutor | USC Upstate
