@@ -6,7 +6,8 @@
 - Links
 
 ## Education
-- Clemson University
+- Clemson University ~ Undergraduate
 
 ## Work History
 - General Tutor ~ USC Upstate
+- Orientation Ambassador ~ Clemson University
